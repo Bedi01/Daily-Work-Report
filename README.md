@@ -21,7 +21,7 @@ All about the 6 month training and internship
 - Beside that looked over the lamp that was told to install earlier.
 ```
 
-## :arrow_right: * DAY 3 (14/07/2022)*
+## :arrow_right: *DAY 3 (14/07/2022)*
 
 ```
 - Went on to the frappe framework offficial page and headed with the  installation process and kept on recovering the erros. 
@@ -29,7 +29,7 @@ All about the 6 month training and internship
 - The then used instructionn manual was(https://github.com/D-codE-Hub/Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS) for the proper installation of the later.
 ```
 
-##  :arrow_right: * DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
+##  :arrow_right: *DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
 
 ```
 - As the frappe was installed, the futher reading process about the usage of the framework was done. 
@@ -37,40 +37,40 @@ All about the 6 month training and internship
 - This took us 2 days.
 ```
 
-##  :arrow_right: * DAY 7 (18/07/2022)*
+##  :arrow_right: *DAY 7 (18/07/2022)*
 
 ```
 - Today i go through the some steps of Library Management and implement in frameframework.
 ```
 
-##  :arrow_right: * DAY 8 (19/07/2022)*
+##  :arrow_right: *DAY 8 (19/07/2022)*
 
 ```
 - Today i go through the library managements features like- Library Membership,Linked Doctypes,Controller validation for membership, Library Transaction, Library Settings and some features of form scripts.  
 ```
 
-##  :arrow_right: * DAY 9 (20/07/2022)*
+##  :arrow_right: *DAY 9 (20/07/2022)*
 
 ```
 - Today i am completing all the steps of Library Management System like- create a doctype, doctype features, controllers methods, types of doctype, form scripts and so on.
 - After complition of Library Mannagement System i can enable all the features of web pages and i can view all information of web pages on the local server.
 ```
 
-##  :arrow_right: * DAY 10 (21/07/2022)*
+##  :arrow_right: *DAY 10 (21/07/2022)*
 
 ```
 - Today i am completed the frappe Library Management and view the articles and articles list on web pages.
 - Now i am starting the work to make the webpage to show the students list, mentor list & students mentor list by searching student name and mentor name. 
 ```
 
-## :arrow_right: DAY 11 (22/07/2022)
+## :arrow_right: *DAY 11 (22/07/2022)*
 
 ```
 - Full review on library management system
 - Working on mentor-mentee project
 ```
 
-## :arrow_right: DAY 12 (23/07/2022)
+## :arrow_right: *DAY 12 (23/07/2022)*
 
 ```
 - Working on intrusion detetction system using artificial neural networks so we can use live data.
@@ -79,7 +79,7 @@ All about the 6 month training and internship
 - Implement Snort on local machines
 ```
 
-## :arrow_right: DAY 13 (25/07/2022)
+## :arrow_right: *DAY 13 (25/07/2022)*
 
 ```
 - Working Mentor Mentee system on Frappe according to requiremnts like septate student or mentor table
@@ -88,7 +88,7 @@ All about the 6 month training and internship
 - Started work on this from this day.
 ```
 
-## :arrow_right: Day 14 (26/07/2022)
+## :arrow_right: *Day 14 (26/07/2022)*
 
 ```
 - Understand the full structure of (erp.gndec.ac.in)
@@ -96,7 +96,7 @@ All about the 6 month training and internship
 - Install ubuntu on team-mate system
 ```
 
-## :arrow_right: Day 15 (27/07/2022)
+## :arrow_right: *Day 15 (27/07/2022)*
 
 ```
 - Install Conda and create virtual environment
@@ -106,7 +106,7 @@ All about the 6 month training and internship
 - Install Erpnext -V 13
 ```
 
-## :arrow_right: Day 16 (28/07/2022)
+## :arrow_right: *Day 16 (28/07/2022)*
 
 ```
 - Reading Education Domain with fully understanding
@@ -125,7 +125,7 @@ All about the 6 month training and internship
 - Education Settings
 ```
 
-## :arrow_right: Day 17 (29/07/2022)
+## :arrow_right: *Day 17 (29/07/2022)*
 
 ```
 - Implement education domain in test server (gne11.gndec.ac.in)
@@ -133,7 +133,7 @@ All about the 6 month training and internship
 - Allot room according to course, Programs and So on.
 ```
 
-## :arrow_right: Day 18 (30/07/2022)
+## :arrow_right: *Day 18 (30/07/2022)*
 
 ```
 - Today seminar off because our Infosys SP & DSE Exam
