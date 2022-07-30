@@ -32,4 +32,60 @@ After complition of Library Mannagement System i can enable all the features of 
 ##  :arrow_right: * DAY 10 (21/07/2022)*
 Today i am completed the frappe Library Management and view the articles and articles list on web pages.Now i am starting the work to make the webpage to show the students list, mentor list & students mentor list by searching student name and mentor name. 
 
+## :arrow_right: DAY 11 (22/07/2022)
+- Full review on library management system
+- Working on mentor-mentee project
+
+## :arrow_right: DAY 12 (23/07/2022)
+- Working on intrusion detetction system using artificial neural networks so we can use live data.
+- Read all the research paper of IDS
+- Read about Snort and Suricata
+- Implement Snort on local machines
+
+## :arrow_right: DAY 13 (25/07/2022)
+- Working Mentor Mentee system on Frappe according to requiremnts like septate student or mentor table
+- Got the task of making Financial system in erp.gndec.ac.in
+- Took two more members suggested by sir (Raghav,Simran)
+- Started work on this from this day.
+
+## :arrow_right: Day 14 (26/07/2022)
+
+- Understand the full structure of (erp.gndec.ac.in)
+- Solve the error of team-mates regarding mysql
+- Install ubuntu on team-mate system
+
+
+## :arrow_right: Day 15 (27/07/2022)
+
+- Install Conda and create virtual environment
+- INstall Python  -V 3.8.1
+- Install bench   -V 5.8.1
+- Install Frappe  -V 13.23.0
+- Install Erpnext -V 13
+
+## :arrow_right: Day 16 (28/07/2022)
+
+- Reading Education Domain with fully understanding
+
+### Setup :
+
+- Program
+- Course
+- Topic
+- Instructor
+- Room
+- Student Category
+- Acadmic Term
+- Acadmic year
+- Education Settings
+
+## :arrow_right: Day 17 (29/07/2022)
+
+- Implement education domain in test server (gne11.gndec.ac.in)
+- Create Programs, Courses
+- Allot room according to course, Programs and So on.
+
+## :arrow_right: Day 18 (30/07/2022)
+
+- Today seminar off because our Infosys SP & DSE Exam
 
