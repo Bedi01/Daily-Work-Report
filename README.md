@@ -88,7 +88,7 @@ All about the 6 month training and internship
 - Started work on this from this day.
 ```
 
-## :arrow_right: *Day 14 (26/07/2022)*
+## :arrow_right: *DAY 14 (26/07/2022)*
 
 ```
 - Understand the full structure of (erp.gndec.ac.in)
@@ -96,7 +96,7 @@ All about the 6 month training and internship
 - Install ubuntu on team-mate system
 ```
 
-## :arrow_right: *Day 15 (27/07/2022)*
+## :arrow_right: *DAY 15 (27/07/2022)*
 
 ```
 - Install Conda and create virtual environment
@@ -106,7 +106,7 @@ All about the 6 month training and internship
 - Install Erpnext -V 13
 ```
 
-## :arrow_right: *Day 16 (28/07/2022)*
+## :arrow_right: *DAY 16 (28/07/2022)*
 
 ```
 - Reading Education Domain with fully understanding
@@ -125,7 +125,7 @@ All about the 6 month training and internship
 - Education Settings
 ```
 
-## :arrow_right: *Day 17 (29/07/2022)*
+## :arrow_right: *DAY 17 (29/07/2022)*
 
 ```
 - Implement education domain in test server (gne11.gndec.ac.in)
@@ -133,9 +133,37 @@ All about the 6 month training and internship
 - Allot room according to course, Programs and So on.
 ```
 
-## :arrow_right: *Day 18 (30/07/2022)*
+## :arrow_right: *DAY 18 (30/07/2022)*
 
 ```
 - Today seminar off because our Infosys SP & DSE Exam
 - Prepare for Exam
 ```
+### :arrow_right: *DAY 19 (01/08/2022)*
+
+```
+#### Design database for mentor-mentee using keys.
+
+- Create Student Table        [seprate]
+- Create Mentor Table         [seprate]
+- Create Mentor_Mentee Table  [seprate]
+- Front-end is done
+- It shows primary key values
+- According to our need we can get Names as well..
+```
+
+### :arrow_right: *DAY 20 (02/08/2022)*
+
+```
+#### 
+
+```
+
+
+
+
+
+
+
+
+
