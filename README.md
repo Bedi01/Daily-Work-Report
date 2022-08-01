@@ -142,7 +142,7 @@ All about the 6 month training and internship
 ### :arrow_right: *DAY 19 (01/08/2022)*
 
 ```
-#### Design database for mentor-mentee using keys.
+Design database for mentor-mentee using keys.
 
 - Create Student Table        [seprate]
 - Create Mentor Table         [seprate]
