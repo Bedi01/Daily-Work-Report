@@ -155,11 +155,29 @@ Design database for mentor-mentee using keys.
 ### :arrow_right: *DAY 20 (02/08/2022)*
 
 ```
-#### 
+- Focus on Mentor-Mentee 
+- Read and undersytand library mamagement system with full concentaration
+- Understand Jinja2 Template and its tools, syntax
+- make project more efficient using templates and jinja2 tool
+```
+
+### :arrow_right: *DAY 21 (03/08/2022)*
+
+```
+- Fetch the student name and mentor name through primary keys
+- fetch the name through keys its tutoril is not given i can try itself.
+- Give presentation on Mentor-Mentee
+- New Task ----> webpage [ create one webpage and fetch the values another table ]
 
 ```
 
+### :arrow_right: *DAY 22 (04/08/2022)*
 
+```
+- Create a demo web page
+- It is created witnin 3 minutes.
+- Now i am exploring the webpage documentation and its features
+```
 
 
 
