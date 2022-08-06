@@ -179,8 +179,29 @@ Design database for mentor-mentee using keys.
 - Now i am exploring the webpage documentation and its features
 ```
 
+### :arrow_right: *DAY 23 (05/08/2022)*
 
+```
+- Working on webpage
+- understand context script
+- use frontend tool of webpage
+```
 
+### :arrow_right: *DAY 24 (06/08/2022)*
+
+```
+- getting error when i'm using context script
+- search the solution for it.
+- work on fee structure on education domain.
+```
+
+### :arrow_right: *DAY 25 (07/08/2022)*
+
+```
+- Saturday seminar
+- understand the use of make command
+- how we can write script of it
+```
 
 
 
