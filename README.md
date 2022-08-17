@@ -254,7 +254,7 @@ Sunday - Fun Day
 ```
 - Give Presentation on fee & admission part, report made by simran
 - Under the concept of virtual environment by Tavleen Kaur [ 2nd year CSE ]
-- Give work to tavleen kaur on *The Unix Shell* [ Linux Commands ]
+- Give work to tavleen kaur on The Unix Shell [ Linux Commands ]
 - Understand what is fet & how we can design the timetabe for any school and institution.
 ```
 
@@ -269,7 +269,7 @@ Sunday day - Fun day
 ```
 - Happy Independence Day [ 75th ]
 - Work From Home
-- Work Fee option and receipt
+- Work on Fee option and receipt
 ```
 
 ### :arrow_right: *DAY 34 (16/08/2022)*
