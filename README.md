@@ -187,15 +187,8 @@ Design database for mentor-mentee using keys.
 - use frontend tool of webpage
 ```
 
+
 ### :arrow_right: *DAY 24 (06/08/2022)*
-
-```
-- getting error when i'm using context script
-- search the solution for it.
-- work on fee structure on education domain.
-```
-
-### :arrow_right: *DAY 25 (07/08/2022)*
 
 ```
 - Saturday seminar
@@ -203,6 +196,100 @@ Design database for mentor-mentee using keys.
 - how we can write script of it
 ```
 
+### :arrow_right: *DAY 25 (17/08/2022)*
+
+```
+Sunday - Fun Day
+```
 
 
+### :arrow_right: *DAY 26 (08/08/2022)*
 
+```
+- getting error when i'm using context script
+- search the solution for it.
+- work on fee structure on education domain.
+```
+
+### :arrow_right: *DAY 27 (09/08/2022)*
+
+```
+
+```
+
+### :arrow_right: *DAY 28 (10/08/2022)*
+
+#### Given by Satndrpal Sir
+
+```
+1.  Student Admission
+2.  Student Fees
+3.  Generate Fee Slip
+4.  Online Fee Option & Receipt
+5.  Accounting
+6.  HR Modules
+7.  Sales Management
+8.  Assets Management
+9.  Student Leaving Certificate Option
+10. Lead Management
+11. Student Applicant
+```
+
+### :arrow_right: *DAY 29 (11/08/2022)*
+
+```
+- Raksha Bandhan
+- Only Work on Admission Part
+```
+
+### :arrow_right: *DAY 30 (12/08/2022)*
+
+```
+- Work on Student Fees
+- Generate Fee Slip
+```
+
+### :arrow_right: *DAY 31 (13/08/2022)*
+
+```
+- Give Presentation on fee & admission part, report made by simran
+- Under the concept of virtual environment by Tavleen Kaur [ 2nd year CSE ]
+- Give work to tavleen kaur on *The Unix Shell* [ Linux Commands ]
+- Understand what is fet & how we can design the timetabe for any school and institution.
+```
+
+### :arrow_right: *DAY 32 (14/08/2022)*
+
+```
+Sunday day - Fun day 
+```
+
+### :arrow_right: *DAY 33 (15/08/2022)*
+
+```
+- Happy Independence Day [ 75th ]
+- Work From Home
+- Work Fee option and receipt
+```
+
+### :arrow_right: *DAY 34 (16/08/2022)*
+
+```
+- Work on Accounting
+- Leaving Certificate
+- Lead Management
+```
+
+### :arrow_right: *DAY 35 (17/08/2022)*
+
+```
+- HR Module
+- Student Applicant
+- Sales Management 
+- Assets Management
+- oday I helped the rest of the team.
+
+Like - SSO Implementation, LDAP installation and Configuration.
+```
+
+### :arrow_right: *DAY 36 (18/08/2022)*
