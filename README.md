@@ -293,3 +293,17 @@ Like - SSO Implementation, LDAP installation and Configuration.
 ```
 
 ### :arrow_right: *DAY 36 (18/08/2022)*
+
+- Explore HR Module
+- Show the fetched values of the mentor-mentee on the webpage with the use of context script
+- start work on new project WMS Construction and MAintenance Cell
+- Add the Load More button on the right side of the page on the frappe
+- Add search button on the webpage of the mentor mentee
+
+### :arrow_right: *DAY 37 (19/08/2022)*
+
+- Create and design the table of the user of the webpage on ( gne11.gndec.ac.in ) after this ( gne11.gndec.ac.in/user ) 
+- Discuss the workflow of CMC 
+- start work on CMC and also work to design the flow chart of the CMC so we can easily understand its depth
+
+### :arrow_right: *DAY 38 (20/08/2022)*
