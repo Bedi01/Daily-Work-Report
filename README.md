@@ -296,7 +296,7 @@ Like - SSO Implementation, LDAP installation and Configuration.
 
 ### :arrow_right: *DAY 37 (19/08/2022)*
 
-- Create and design the table of the user of the webpage on ( https://gne11.gndec.ac.in/user ) 
+- Create and design the table of the user of the webpage on https://gne11.gndec.ac.in/user 
 - Discuss the workflow of CMC 
 - start work on CMC and also work to design the flow chart of the CMC so we can easily understand its depth
 
