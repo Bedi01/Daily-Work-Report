@@ -323,7 +323,7 @@ Sunday FUN - day
 - And did some other works related to projects.
 - Mentor - Mentee project is finished
 
-### :arrow_right: *DAY 40 (23/08/2022)*
+### :arrow_right: *DAY 41 (23/08/2022)*
 
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
