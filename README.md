@@ -303,3 +303,27 @@ Like - SSO Implementation, LDAP installation and Configuration.
 ### :arrow_right: *DAY 38 (20/08/2022)*
 
 #### Saturday Seminar
+
+- Discuss working on the workflow of CMC with Rai sir & Satinderpal sir.
+- Design flowcharts with the use of mermaid editor.
+- Discuss some topics of NSPS Project.
+
+
+### :arrow_right: *DAY 39 (21/08/2022)*
+
+Sunday FUN - day
+
+- Lived the webpage from the public_html [ Home Directory ] https://gne2.gndec.ac.in/~deepak526/
+
+
+### :arrow_right: *DAY 40 (22/08/2022)*
+
+- Morning Classes
+- find the admission fee in erp.gndec.ac.in
+- And did some other works related to projects.
+- Mentor - Mentee project is finished
+
+### :arrow_right: *DAY 40 (23/08/2022)*
+
+- Argusoft pre-placement talks starts at 8:30 AM
+- Then exam at 12'o clock.
