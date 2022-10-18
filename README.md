@@ -327,3 +327,12 @@ Sunday FUN - day
 
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
+
+### :arrow_right: *DAY 1 (18/10/2022)*
+
+#### Today Targets :
+
+1. Comlplete the employee data CSV file.
+2. Study about data fields in v13 and v14.
+3. Also focus on cmc project and so on.
+
