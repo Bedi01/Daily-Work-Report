@@ -336,3 +336,10 @@ Sunday FUN - day
 2. Study about data fields in v13 and v14.
 3. Also focus on cmc project and so on.
 
+
+### :arrow_right: *DAY 1 (22/11/2022)*
+
+#### Today Targets :
+
+1. 10 to 11 AM mail reading
+2. Install gamepaln
